@@ -1,0 +1,5 @@
+#EXTM3U
+#KODIPROP:inputstream.adaptive.manifest_type=rtmp
+#EXTINF:-1 group-title="isaac server",server rtmp
+rtmp://iptv-m3u.serveftp.com/live
+
